@@ -17,24 +17,27 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaavergennes&layout=compact&hide_border=true&title_color=483D8B&text_color=483D8B&bg_color=0d1117" />
 </div>
 
+<div align="center">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/>
+</div>
+
 
 <div>
-<h1> Sobre mim 🐾  </h1>
+<h1> Sobre mim 🐾 </h1>
 </div>
 
 <div>
 <ul>
+    <i>
   <li>Sou estudante de Engenharia de Software e estou aprendendo a programar.
   <li>Vou postar projetos que faço para passar o tempo.
   <li>Aprendendo front-end e back-end.
+  </li>
   </ul>
      
-</div>
- 
-
-       
-<div align="center">
-   <h1> Contato 🐾 </h1>
 
   <a href="https://www.instagram.com/anavergennes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/nanacapaa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -45,21 +48,5 @@
 
 
 
-<div align="center">
-<h1> Estudando 🐾 </h1> 
-
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
-
-##
-  
-</div>
-
-
-
-
-##
 
 
