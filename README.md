@@ -10,7 +10,7 @@
 <br clear="left"/>
     </div>
     
-##
+## Sobre mim 🐾 
 
 - Sou estudante de Engenharia de Software e estou aprendendo a programar.
 - Vou postar projetos que faço para passar o tempo.
@@ -36,6 +36,7 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
+##
   
 </div>
 
