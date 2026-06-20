@@ -1,3 +1,4 @@
+--- 
 
 <div align="center">
     
@@ -24,19 +25,10 @@
 <br/>
 </div>
 
+---
 
-<div>
-<h1> Sobre mim 🐾 </h1>
-</div>
+<div align="center">
 
-<div>
-<ul>
-    <i>
-  <li>Sou estudante de Engenharia de Software e estou aprendendo a programar.
-  <li>Vou postar projetos que faço para passar o tempo.
-  <li>Aprendendo front-end e back-end.
-  </li>
-  </ul>
      
 
   <a href="https://www.instagram.com/anavergennes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -47,6 +39,6 @@
   </div>
 
 
-
+---
 
 
