@@ -1,8 +1,8 @@
 --- 
-
+ 
 <div align="center">
     
-<i> Olá! meu nome é Ana ! </i>
+ Olá, meu nome é Ana!
         
 </div>
 <div align="center"> 
