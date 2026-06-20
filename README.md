@@ -14,7 +14,7 @@
 
 - Sou estudante de Engenharia de Software e estou aprendendo a programar.
 - Vou postar projetos que faço para passar o tempo.
-- Aprendendo full stack.
+- Aprendendo front-end e back-end.
 
  ##
    <div>
