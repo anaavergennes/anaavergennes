@@ -10,13 +10,10 @@
 <br clear="left"/>
 </div>
     <div align="center">
-        meow 𖹭
+        meow ♡
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anaavergennes&show_icons=true&count_private=true&hide_border=true&title_color=483D8B&icon_color=483D8B&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaavergennes&layout=compact&hide_border=true&title_color=483D8B&text_color=483D8B&bg_color=0d1117" />
-</div>
+
 
 <div align="center">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
